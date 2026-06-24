@@ -31,7 +31,7 @@ paid even for trivial prompts. For a small team, that's hard to justify.
 | Repo | What |
 |---|---|
 | 🧠 **[axonate](https://github.com/Axonate/axonate)** | the gateway — routing, budgets, SSO, trace (self-host with Docker) |
-| ⌨️ **[ax](https://github.com/Axonate/ax)** | the zero-dependency CLI — `pip install axonate-cli` |
+| ⌨️ **[ax](https://github.com/Axonate/ax)** | the zero-dependency CLI — `pip install axonate-ax` |
 | 🧩 **[vscode](https://github.com/Axonate/vscode)** | VS Code extension — chat with your gateway in the editor |
 | 🗺️ **[roadmap](https://github.com/orgs/Axonate/projects/2)** | public board: features, known bugs, planning |
 | 📚 **[docs](https://github.com/Axonate/docs)** | guides for CLI, web/API, and IDE setup |
@@ -40,7 +40,7 @@ paid even for trivial prompts. For a small team, that's hard to justify.
 
 ```bash
 # CLI
-pip install axonate-cli
+pip install axonate-ax
 ax "summarize this PR"
 
 # Web / any OpenAI-compatible client
