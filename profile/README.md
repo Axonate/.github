@@ -2,11 +2,11 @@
 
 # Axonate
 
-### One key, every model — shared AI for small teams.
+### One key, every model — AI that fits a small team's budget.
 
-**Stop buying an AI seat for everyone.** Axonate is a self-hosted, OpenAI-compatible gateway
-that lets a small company run a few flat AI subscriptions and share them across the whole team —
-with per-user budgets, smart routing, and spend tracking that keep the bill small.
+Axonate is a self-hosted, OpenAI-compatible gateway in front of **every model** — real provider
+APIs (Anthropic, OpenAI, AWS Bedrock, Azure…) **and free local models** — with per-user budgets,
+smart routing, and spend tracking that keep the bill small.
 
 </div>
 
@@ -14,16 +14,17 @@ with per-user budgets, smart routing, and spend tracking that keep the bill smal
 
 ## The problem we solve
 
-AI subscriptions and API plans add up fast: one seat per person, no visibility into who spent
-what, and premium prices paid even for trivial prompts. For a small team, that's hard to justify.
+AI costs add up fast: a plan per person, no visibility into who spent what, and premium prices
+paid even for trivial prompts. For a small team, that's hard to justify.
 
 **Axonate fixes the economics:**
 
-- 🤝 **Share, don't multiply** — one gateway on a couple of subscriptions serves everyone.
-- 💸 **Cheap by default** — `auto` routing sends easy/bulk work to the cheapest capable model.
+- 💸 **Cheap by default** — `auto` routing sends easy/bulk work to the cheapest capable model
+  (including **free local models** via Ollama).
 - 🛡️ **Hard ceilings** — a global spend cap + per-user budgets that actually block. No surprise bills.
 - 📊 **Full visibility** — per-user trace, usage dashboard, and a daily Slack spend digest.
-- 🔌 **No lock-in** — OpenAI-compatible everywhere; grow to real provider APIs with a one-line swap.
+- ☁️ **Use what you already pay for** — route through existing **AWS/Azure** commitments and credits.
+- 🔌 **No lock-in** — OpenAI-compatible everywhere; one shared key, every provider, swap freely.
 
 ## Projects
 
