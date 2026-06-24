@@ -32,6 +32,7 @@ what, and premium prices paid even for trivial prompts. For a small team, that's
 | 🧠 **[axonate](https://github.com/Axonate/axonate)** | the gateway — routing, budgets, SSO, trace (self-host with Docker) |
 | ⌨️ **[ax](https://github.com/Axonate/ax)** | the zero-dependency CLI — `pip install axonate-cli` |
 | 🧩 **[vscode](https://github.com/Axonate/vscode)** | VS Code extension — chat with your gateway in the editor |
+| 🗺️ **[roadmap](https://github.com/orgs/Axonate/projects/2)** | public board: features, known bugs, planning |
 | 📚 **[docs](https://github.com/Axonate/docs)** | guides for CLI, web/API, and IDE setup |
 
 ## Use it your way
